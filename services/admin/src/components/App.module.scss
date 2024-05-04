@@ -1,0 +1,12 @@
+.button{
+    background-color: red;
+}
+
+
+p{
+    font-size: 30px;
+
+    &.value{
+        color: blue;
+    }
+}
